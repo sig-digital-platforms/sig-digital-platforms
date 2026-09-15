@@ -47,12 +47,31 @@ An internal operations and analytics platform supporting organizational visibili
 
 # Technology Focus
 
-```txt
-Digital Platforms
-Web Applications
-Operations & Analytics
-Business Intelligence
-Automation
-Data Systems
-AI-Assisted Analytics
-Modern Web Infrastructure
+<p>
+  <code>Digital Platforms</code>
+  <code>Web Applications</code>
+  <code>Operations &amp; Analytics</code>
+  <code>Business Intelligence</code>
+  <code>Automation</code>
+  <code>Data Systems</code>
+  <code>AI-Assisted Analytics</code>
+  <code>Modern Web Infrastructure</code>
+</p>
+
+---
+
+# SIG
+
+**Protect Families. Develop Leaders. Build Legacies.**
+
+### Website
+
+https://www.samuelsinsurancegroup.com/
+
+---
+
+<p align="center">
+  <sub>
+    © Samuels Insurance Group
+  </sub>
+</p>
